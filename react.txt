@@ -1,0 +1,14 @@
+Guia Básico React
+
+Criando um projeto:
+ - npx create-react-app 'diretório'
+ - npx create-react-app .     <-- Cria o projeto no diretório atual do terminal
+
+
+
+Iniciando o projeto
+ - npm run start        <-- Inicia o projeto localmente em desenvolvimento
+ - npm run build        <-- Gera uma Build pronta para subir em produção
+
+
+
